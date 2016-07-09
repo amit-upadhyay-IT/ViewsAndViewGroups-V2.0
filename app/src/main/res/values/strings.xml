@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Module Two</string>
+    <string name="frame_layout">Frame Layout</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="web_view">Web View</string>
+    <string name="spinner">Spinner</string>
+    <string name="checkbox_and_radiobuttons">CheckBox and RadioButtons</string>
+    <string name="date_picker">Date Picker Dialog</string>
+    <string name="time_picker">Time Picker Dialog</string>
+    <string name="select_your_city">Select Your City :</string>
+    <string name="click_me_to_see_map">Click me to see map</string>
+    <string name="click_here">Click Here</string>
+    <string name="big_style_notification">Big Style Notification</string>
+    <string name="normal_notification">Normal Notification</string>
+    <string name="notifications">Notifications</string>
+    <string name="fragments">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+</resources>

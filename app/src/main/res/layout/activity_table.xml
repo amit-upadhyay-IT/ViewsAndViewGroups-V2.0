@@ -1,0 +1,36 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#9f37c0ff"
+    android:orientation="vertical">
+    <TableRow>
+        <Button android:text="Btn 1"/>
+        <Button android:text="Btn 2"/>
+    </TableRow>
+
+    <TableRow>
+        <Button android:text="Btn 3" />
+        <Button android:text="Btn 4" />
+        <Button android:text="Btn 5"/>
+    </TableRow>
+    <TableRow>
+        <Button android:text="Btn 6" />
+        <Button android:text="Btn 7" />
+        <Button android:text="Btn 8"/>
+    </TableRow>
+    <TableRow>
+        <Button android:text="Btn 9"
+            android:layout_column="2"/>
+    </TableRow>
+    <TableRow>
+        <Button android:text="Spanning Button"
+            android:layout_span="3"/>
+    </TableRow>
+    <TextView android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="This is Table Layout"
+        android:textSize="25sp"
+        android:gravity="center"/>
+
+</TableLayout>
